@@ -19,9 +19,10 @@ Enter a GitHub username in the input field and click the "Fetch" button.
 
 View the user information, fetched repositories, and use the pagination controls.
 
-![Screenshot 2024-01-18 205215](https://github.com/akankshabhagat/Githubreposgetter/assets/72538635/fa2b5d9a-4210-4c09-9db5-e3afc8b9138f)
 
-![Screenshot 2024-01-18 205432](https://github.com/akankshabhagat/Githubreposgetter/assets/72538635/34478ddf-6a0b-41e3-ab8b-3d18cc40b9e1)
+![Screenshot 2024-01-18 205215](https://github.com/akankshabhagat/Gitrepoviewer/assets/72538635/3863199d-fb78-4a99-b3ec-3d760e6dc337)
+
+![Screenshot 2024-01-18 205432](https://github.com/akankshabhagat/Gitrepoviewer/assets/72538635/cfdc2f64-5401-49dd-ab63-4d3f3a99bf4a)
 
 
 Technologies Used
