@@ -1,0 +1,169 @@
+/* Add this new style for language buttons */
+/* .body{
+    background-color: black;
+    color: white;
+  } */
+  .Userinfosection{
+      margin-top: 10px;
+      margin-left: 10px;
+      display: flex;
+     align-items: center;
+       margin-bottom: 20px;
+      width: 100%;
+      /* background-color: salmon; */
+      /* color: white; */
+      }
+    
+   
+
+/* button search new design */
+
+.button-62 {
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.button-62:not([disabled]):focus {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-62:not([disabled]):hover {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+    /* new button design ends */
+
+
+    .Leftsection{
+      flex: 1;
+       margin-right: 5px;
+       
+    }
+    .Rightsection{
+    flex: 4;
+    
+    }
+    .imagesection{
+      width: 230px;
+      height: 230px;
+      border-radius: 50%;
+    }
+    .linkbimage{
+      margin-top: 20px;
+      position: absolute;
+      left: 5%;
+    
+    }
+    
+
+ 
+ 
+
+  #username {
+    padding: 5px;
+    width: 300px;
+    height: 45px;
+    
+  }
+#app{
+    color: #0066cc;
+    margin-top: 2rem;
+   
+    display: flex;
+    margin-left: 3px;
+justify-content: center;
+/* background-color: black; */
+
+
+}
+.searchl{
+    font-size: 30px;
+    margin-right: 2px;
+}
+
+.arp{
+    
+    margin-top: 1rem; 
+ /* background-color: black; */
+width: 50%;
+height: 80%;
+display: flex;
+justify-content: center;
+margin: 1rem;
+
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #0066cc;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+  }
+  
+  #repositories {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+  }
+ 
+  
+  .grid-item {
+
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0); 
+    padding: 20px;
+    text-align: left;
+    margin:1rem;
+    width: 490px; 
+
+
+
+  }
+
+
+
+.language-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    max-width: 80px;
+    align-items: center;
+  }
+  
+  .language-button:hover {
+ 
+    background-color: #d6cc3e;
+  }
+ 
